@@ -1,0 +1,24 @@
+PyPipeline-ESB
+--------------
+
+Установка библиотеки:
+	pip install pypipeline-esb
+
+Документация библиотеки:
+	https://pypipeline-esb.readthedocs.io/en/latest/
+
+Репозитарий проекта:
+	https://github.com/vaibhav-sinha/pypipeline
+
+
+-------------------------------------
+
+EIP concepts: https://www.enterpriseintegrationpatterns.com/
+
+
+Apache Camel (JVM)
+------------------
+
+Home: https://camel.apache.org/
+
+EIP: https://camel.apache.org/components/next/eips/enterprise-integration-patterns.html
